@@ -1,0 +1,13 @@
+D:\AreaDoCodigo\.Codigos\.NET\RayTracing_Project\RayTracing_Project\bin\Debug\netcoreapp3.1\RayTracing_Project.exe
+D:\AreaDoCodigo\.Codigos\.NET\RayTracing_Project\RayTracing_Project\bin\Debug\netcoreapp3.1\RayTracing_Project.deps.json
+D:\AreaDoCodigo\.Codigos\.NET\RayTracing_Project\RayTracing_Project\bin\Debug\netcoreapp3.1\RayTracing_Project.runtimeconfig.json
+D:\AreaDoCodigo\.Codigos\.NET\RayTracing_Project\RayTracing_Project\bin\Debug\netcoreapp3.1\RayTracing_Project.runtimeconfig.dev.json
+D:\AreaDoCodigo\.Codigos\.NET\RayTracing_Project\RayTracing_Project\bin\Debug\netcoreapp3.1\RayTracing_Project.dll
+D:\AreaDoCodigo\.Codigos\.NET\RayTracing_Project\RayTracing_Project\bin\Debug\netcoreapp3.1\RayTracing_Project.pdb
+D:\AreaDoCodigo\.Codigos\.NET\RayTracing_Project\RayTracing_Project\obj\Debug\netcoreapp3.1\RayTracing_Project.csprojAssemblyReference.cache
+D:\AreaDoCodigo\.Codigos\.NET\RayTracing_Project\RayTracing_Project\obj\Debug\netcoreapp3.1\RayTracing_Project.AssemblyInfoInputs.cache
+D:\AreaDoCodigo\.Codigos\.NET\RayTracing_Project\RayTracing_Project\obj\Debug\netcoreapp3.1\RayTracing_Project.AssemblyInfo.cs
+D:\AreaDoCodigo\.Codigos\.NET\RayTracing_Project\RayTracing_Project\obj\Debug\netcoreapp3.1\RayTracing_Project.csproj.CoreCompileInputs.cache
+D:\AreaDoCodigo\.Codigos\.NET\RayTracing_Project\RayTracing_Project\obj\Debug\netcoreapp3.1\RayTracing_Project.dll
+D:\AreaDoCodigo\.Codigos\.NET\RayTracing_Project\RayTracing_Project\obj\Debug\netcoreapp3.1\RayTracing_Project.pdb
+D:\AreaDoCodigo\.Codigos\.NET\RayTracing_Project\RayTracing_Project\obj\Debug\netcoreapp3.1\RayTracing_Project.genruntimeconfig.cache
